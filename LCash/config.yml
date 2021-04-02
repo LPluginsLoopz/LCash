@@ -1,0 +1,22 @@
+##############
+#    LCash   #
+# Loopz#6245 #
+##############
+#
+Messages:
+   Help:
+      - '&a/cash &7- Vê seu saldo de cash(s).'
+      - '§a/cash (jogador) &7- Vê o saldo de cash(s) do jogador.'
+      - '§a/cash cheque &7- Cria um cheque de cash(s).'
+      - '&a/cash top &7- Vê os jogadores que possuem mais cash(s).'
+      - '§a/cash enviar/pay &7- Envia cash(s) a um jogador.'
+   HelpAdmin:
+      - '&a/cash &7- Vê seu saldo de cash(s).'
+      - '§a/cash (jogador) &7- Vê o saldo de cash(s) do jogador.'
+      - '§a/cash cheque &7- Cria um cheque de cash(s).'
+      - '&a/cash top &7- Vê os jogadores que possuem mais cash(s).'
+      - '§a/cash enviar/pay &7- Envia cash(s) a um jogador.'
+      - '§a/cash retirar/remove &7- Retira cash(s) de um jogador.'
+      - '§a/cash definir/set &7- Define os cash(s) de um jogador.'
+      - '§a/cash adicionar/add &7- Adicioana cash(s) a um jogador.'
+      

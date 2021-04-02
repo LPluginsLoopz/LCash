@@ -1,0 +1,7 @@
+name: LCash
+main: org.loopz.lcash.Main
+version: 1.0
+author: Loopz
+commands:
+  cash:
+  
